@@ -43,8 +43,10 @@ INSTALLED_APPS = [
     'posts',
 ]
 REST_FRAMEWORK = {
-    'DAFAULT_PERMISSION_CLASSESS':[
-        'rest_framework.permissions.AllowAny',
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated'
     ]
 }
 
