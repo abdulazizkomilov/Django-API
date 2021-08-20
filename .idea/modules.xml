@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Django API.iml" filepath="$PROJECT_DIR$/.idea/Django API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenCV/.idea/OpenCV.iml" filepath="$PROJECT_DIR$/../OpenCV/.idea/OpenCV.iml" />
     </modules>
   </component>
 </project>
