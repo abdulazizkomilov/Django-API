@@ -18,6 +18,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="OpenCV" />
     <orderEntry type="module" module-name="django-darslari" />
+    <orderEntry type="module" module-name="big portfolio" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

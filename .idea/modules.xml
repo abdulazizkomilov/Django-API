@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Django API.iml" filepath="$PROJECT_DIR$/.idea/Django API.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OpenCV/.idea/OpenCV.iml" filepath="$PROJECT_DIR$/../OpenCV/.idea/OpenCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../big portfolio/.idea/big portfolio.iml" filepath="$PROJECT_DIR$/../big portfolio/.idea/big portfolio.iml" />
       <module fileurl="file://$USER_HOME$/django-darslari/.idea/django-darslari.iml" filepath="$USER_HOME$/django-darslari/.idea/django-darslari.iml" />
     </modules>
   </component>
